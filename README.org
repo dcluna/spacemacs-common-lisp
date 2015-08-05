@@ -1,0 +1,3 @@
+* Common Lisp configuration layer for Spacemacs
+ A simple configuration layer for Common Lisp programming in Spacemacs, 
+ using the [[http://capitaomorte.github.io/sly/]['sly']] fork of [[https://common-lisp.net/project/slime/][Slime]] as a debugger/IDE.
